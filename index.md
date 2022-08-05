@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>--- CHA Party---</h2>
+<h2>--- People---</h2>
 
 <ol type="1">
   <li>Dinesh - In</li>
@@ -19,13 +19,15 @@
   <li>Prashant - In</li>
 </ol>  
   
-  Food:
-  1. Paneer tikka - Nikhil
-  2. Chicken 65 or Manchuria or Wings - Faizan
-  3. Pizza - Ramesh
-  4. Beers 🍻 - Dinesh
-  5. Soft drinks - Dinesh
-
+  <h3>--- Food---</h3>
+  <ol type="I">
+  <li>Paneer tikka - Nikhil</li>
+  <li>Chicken 65 or Manchuria or Wings - Faizan</li>
+  <li>Pizza - Ramesh</li>
+  <li>Beers 🍻 - Dinesh</li>
+  <li>Soft drinks - Dinesh</li>
+</ol>
+ 
 </body>
 </html>
 
