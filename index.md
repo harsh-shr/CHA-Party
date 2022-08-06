@@ -17,7 +17,8 @@
   <li>Akhilesh - In</li>
   <li>Chandu - In</li>
   <li>Manish - In</li>
-  <li>Prashant - Tentative</li>
+  <li>Prashant - In</li>
+  <li>Jyotish - In</li>
 </ol>  
   
   <h3>--- Food---</h3>
