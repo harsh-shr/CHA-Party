@@ -16,7 +16,8 @@
   <li>Mustafa - In</li>
   <li>Akhilesh - In</li>
   <li>Chandu - In</li>
-  <li>Prashant - In</li>
+  <li>Manish - In</li>
+  <li>Prashant - Tentative</li>
 </ol>  
   
   <h3>--- Food---</h3>
