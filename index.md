@@ -8,7 +8,7 @@
   <li>Tableau</li>
   <li>Power BI</li>
   <li>Python</li>
-  <li>SQL</li>
+  <li>SQL / PL-SQL</li>
   <li>Adobe Analytics</li>
   <li>Google Analytics</li>
   <li>Quantum Metrics</li>
@@ -23,15 +23,16 @@
   <li>Datawarehousing</li>
 </ol>  
   
-  <h3>--- Food---</h3>
+  <h3>--- Tools---</h3>
   <ol type="I">
-  <li>Anaconda Package</li>
+  <li>Anaconda | Jupyter Notebook</li>
+  <li>Databricks</li>
   <li>Github</li>
   <li>Unix</li>
   <li>PyCharm</li>
   <li>Azure</li>
   <li>AWS</li>
-  <li>Visual Studio</li>
+  <li>Visual Studio Code</li>
   <li>Toad / SQL Workbench</li>
 </ol>
  
